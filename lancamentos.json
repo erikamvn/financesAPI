@@ -1,0 +1,29 @@
+{
+    "nextId": 5,
+    "lancamentos": [
+        {
+            "id": 1,
+            "descricao": "pagamento",
+            "valor": 2000,
+            "data": "01/01/2020"
+        },
+        {
+            "id": 2,
+            "descricao": "academia",
+            "valor": -300,
+            "data": "01/01/2020"
+        },
+        {
+            "id": 3,
+            "descricao": "telefone",
+            "valor": -50,
+            "data": "01/01/2020"
+        },
+        {
+            "id": 4,
+            "descricao": "telefone",
+            "valor": -50,
+            "data": "01/01/2020"
+        }
+    ]
+}
